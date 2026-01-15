@@ -145,16 +145,18 @@ Ensures fair aggregation across heterogeneous clients.
 ## Project Structure
 
 federated-sentiment-analysis/
-├── clients/        # Federated client logic
-├── server/         # Flower server & aggregation
-├── model/          # DistilBERT training & export
-├── api/            # Flask REST API
-├── frontend/       # HTML/JS UI
-├── metrics/        # Accuracy & loss logs
-├── assets/         # Architecture & screenshots
-└── README.md
+-├── clients/        # Federated client logic
+-├── server/         # Flower server & aggregation
+-├── model/          # DistilBERT training & export
+-├── api/            # Flask REST API
+-├── frontend/       # HTML/JS UI
+-├── metrics/        # Accuracy & loss logs
+-├── assets/         # Architecture & screenshots
+-└── README.md
+
 
 ---
+
 
 
 
