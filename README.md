@@ -1,7 +1,7 @@
 # Federated Learning System for Sentiment Analysis
 
 **Author:**  
-**Mohammed Furqan Siddiq** (1604-22-733-154)
+**Mohammed Furqan Siddiq**
 
 **Internship Organization:**  
 GWING Software Technologies Pvt. Ltd.
